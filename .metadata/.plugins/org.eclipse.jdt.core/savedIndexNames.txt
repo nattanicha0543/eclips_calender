@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Toey\Desktop\Í.¹Ä¾Å\eclipse\WebDriver_basics2\.metadata\.plugins\org.eclipse.jdt.core
+2908074805.index
+841058352.index
